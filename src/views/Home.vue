@@ -64,7 +64,7 @@
         <div class="container px-5">
             <div class="row gx-5 justify-content-center">
                 <div class="col-xl-8">
-                    <div class="h2  text-white mb-3">"An intuitive solution to a common problem that we all face, wrapped up in a single app! "</div>
+                    <div class="h2  text-white mb-3">" An intuitive solution to a common problem that we all face, wrapped up in a single app! "</div>
                 </div>
             </div>
         </div>

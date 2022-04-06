@@ -3,7 +3,7 @@
         <section class="page-section section-bg-3" id="portfolio">
             <div class="container mb-3">
                 <div class="text-center">
-                    <h1 class="lh-1 mb-5 text-white">Portfolio</h1>
+                    <h1 class="lh-1 mb-5">Portfolio</h1>
                     <br />
                 </div>
                 <div class="row mt-2">
@@ -11,9 +11,6 @@
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
-                                <!--<div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>-->
                                 <img class="img-fluid portfolioImg" src="../assets/img/1.png" alt="..." />
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Switch In</div>
@@ -26,9 +23,6 @@
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <!--<div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>-->
                                 <img class="img-fluid portfolioImg" src="../assets/img/2.png" alt="..." />
                                 <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Voucher Club</div>
@@ -41,9 +35,6 @@
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <!--<div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>-->
                                 <img class="img-fluid portfolioImg" src="../assets/img/3.png" alt="..." />
                                 <div class="portfolio-caption">
                                     <div class="portfolio-caption-heading">BruXchange</div>
@@ -56,9 +47,6 @@
                         <!-- Portfolio item 4-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <!--<div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>-->
                                 <img class="img-fluid portfolioImg" src="../assets/img/5.png" alt="..." />
                                     <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">IPay</div>
@@ -70,9 +58,6 @@
                         <!-- Portfolio item 5-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <!--<div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>-->
                                 <img class="img-fluid portfolioImg" src="../assets/img/4.png" alt="..." />
                                         <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Bru Pay</div>

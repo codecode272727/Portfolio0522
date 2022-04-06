@@ -1,5 +1,14 @@
 <template>
     <div>
+        <aside class="text-center bg-gradient-primary-to-secondary">
+            <div class="container px-5">
+                <div class="row gx-5 justify-content-center">
+                    <div class="col-xl-8">
+                        <div class="h2  text-white mb-3">" Need a software developer? "</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
         <section id="contact" class="projects contact">
             <div class="container">
                 <div class="projects-wrapper contact-wrapper row">

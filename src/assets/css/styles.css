@@ -12969,7 +12969,10 @@ li.shape.shape-7 {
     }
 
     .section-bg-3::before {
-        background-color: #27272e
+        /*background-color: #27272e*/
+        background-image: url(../img/hero-bg-three.png);
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
 .portfolio-caption {
