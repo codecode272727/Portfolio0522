@@ -126,8 +126,8 @@
                                     
                                     <br />
      
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-times me-1"></i>
+                                    <button class="btn btn-primary btn-xl" data-bs-dismiss="modal" type="button">
+                                        <i class="bi bi-x-lg me-2"></i>
                                         Close Project
                                     </button>
                                 </div>
@@ -167,8 +167,8 @@
                                     </div>
                                     <br />
                                     <br />
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-times me-1"></i>
+                                    <button class="btn btn-primary btn-xl" data-bs-dismiss="modal" type="button">
+                                        <i class="bi bi-x-lg me-2"></i>
                                         Close Project
                                     </button>
                                 </div>
@@ -212,8 +212,9 @@
                                         <div class="video-content"> <img class="img-fluid " src="../assets/img/Bruxchg5.png" alt="..." /></div>
                                     </div>
                                     <br />
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-times me-1"></i>
+                                    <br />
+                                    <button class="btn btn-primary btn-xl" data-bs-dismiss="modal" type="button">
+                                        <i class="bi bi-x-lg me-2"></i>
                                         Close Project
                                     </button>
                                 </div>
@@ -256,8 +257,8 @@
                                     </div>
                                     <br />
                                     <br />
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-times me-1"></i>
+                                    <button class="btn btn-primary btn-xl" data-bs-dismiss="modal" type="button">
+                                        <i class="bi bi-x-lg me-2"></i>
                                         Close Project
                                     </button>
                                 </div>
@@ -299,8 +300,8 @@
                                     
                                     <br />
                                     <br />
-                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
-                                        <i class="fas fa-times me-1"></i>
+                                    <button class="btn btn-primary btn-xl" data-bs-dismiss="modal" type="button">
+                                        <i class="bi bi-x-lg me-2"></i>
                                         Close Project
                                     </button>
                                 </div>
