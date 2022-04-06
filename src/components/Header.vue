@@ -20,7 +20,7 @@
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#portfolio"><strong>Work</strong></a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="#contact"><strong>Contact</strong></a></li>
                     </ul>
-                    <button class="btn btn-primary px-3 mb-2 mb-lg-0" onclick=" window.open('./Resume220504.pdf','_blank')">
+                    <button class="btn btn-primary px-3 mb-2 mb-lg-0" onclick=" window.open('./Resume2200406.pdf','_blank')">
                         <span class="d-flex align-items-center">
                             <i class="bi bi-file-text me-2"></i>
                             <span class="small">Resume</span>
