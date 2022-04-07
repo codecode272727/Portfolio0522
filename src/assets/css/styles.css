@@ -12484,6 +12484,10 @@ footer a {
         background-repeat: no-repeat;
         background-position: top left;
     }
+
+    .modal-dialog .modal-content{
+        width:90% !important;
+    }
 }
 
 @media (max-width: 575px) {
@@ -12550,6 +12554,14 @@ footer a {
         margin:auto!important;
         width:90% !important;
     }
+
+    .modal-dialog .modal-content {
+        width: 90% !important;
+    }
+
+    .modal-dialog .modal-content .modal-body p{
+        font-size:14px !important;
+    }
 }
 
     @media (max-width: 426px){
@@ -12561,6 +12573,10 @@ footer a {
         .aboutText p{
             font-size:16px!important;
             margin-bottom:30px !important
+        }
+
+        .modal-dialog .modal-content {
+            width: 90% !important;
         }
     }
 /*Portfolio*/
