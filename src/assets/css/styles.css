@@ -12420,7 +12420,7 @@ footer a {
     }
 
     .portfolio-modal .modal-dialog {
-        margin: 3rem !important;
+        margin: 1rem !important;
         max-width: 100vw;
     }
 
@@ -12459,11 +12459,6 @@ footer a {
         display: none;
     }
 
-    .portfolio-modal .modal-dialog {
-        margin: 3rem !important;
-        max-width: 100vw;
-    }
-
     .projects-wrapper {
         display: flex;
         justify-content: center !important;
@@ -12486,7 +12481,11 @@ footer a {
     }
 
     .modal-dialog .modal-content{
-        width:90% !important;
+        width:100% !important;
+    }
+
+    .portfolio-modal .modal-dialog {
+        margin: 1rem !important;
     }
 }
 
@@ -12552,15 +12551,23 @@ footer a {
 
     .contact-form-box{
         margin:auto!important;
-        width:90% !important;
+        width:100% !important;
     }
 
     .modal-dialog .modal-content {
-        width: 90% !important;
+        width: 100% !important;
     }
 
     .modal-dialog .modal-content .modal-body p{
         font-size:14px !important;
+    }
+
+    .portfolio-modal .modal-dialog {
+        margin: 1rem !important;
+    }
+
+    .modal-body img{ 
+        width:95%!important;
     }
 }
 
