@@ -12566,9 +12566,13 @@ footer a {
         margin: 1rem !important;
     }
 
-    .modal-body img{ 
-        width:95%!important;
+    /*.modal-body .ipImgTop {
+        display: none;
     }
+
+    .modal-body .ipImgTBottom {
+        display: none;
+    }*/
 }
 
     @media (max-width: 426px){
@@ -12583,7 +12587,7 @@ footer a {
         }
 
         .modal-dialog .modal-content {
-            width: 90% !important;
+            width: 95% !important;
         }
     }
 /*Portfolio*/
@@ -13194,4 +13198,8 @@ li.shape.shape-7 {
 .logo{
     display:flex;
     flex-direction:row;
+}
+
+.modal-open{
+    padding-right:0 !important;
 }
