@@ -17,12 +17,10 @@
                     </div>
                 </div>
             </div>
-            <br />
-            <br />
-            <br />
+   
             <div class="container px-5">
                 <div class="row gx-5">
-                    <div class="order-lg-1 mb-5 mb-lg-0">
+                    <div class="order-lg-1 mb-lg-0">
                         <div class="container-fluid px-5 services">
                             <div class="row gx-5 mt-3 mb-3">
                                 <div class="col-lg-4 col-md-6 mb-4 pb-2">

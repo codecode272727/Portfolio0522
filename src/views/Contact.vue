@@ -31,7 +31,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="contact-form-box col-lg-6 col-sm-12 mb-6">
+                    <div class="contact-form-box col-lg-6 col-xs-10 mb-6">
                         <h2 class="title">Describe your project</h2>
                         <form role="form" method="POST" @submit.prevent="sendEmail">
                             <div class="form-group">
@@ -141,6 +141,7 @@
 
         }
     }
+
 
 </script>
 <style>

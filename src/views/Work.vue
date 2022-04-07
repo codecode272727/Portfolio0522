@@ -1,6 +1,6 @@
 ﻿<template>
-    <div>
-        <section class="page-section section-bg-3" id="portfolio">
+    <div class="page-section section-bg-3">
+        <section id="portfolio">
             <div class="container mb-3">
                 <div class="text-center">
                     <h1 class="lh-1 mb-5">Portfolio</h1>
