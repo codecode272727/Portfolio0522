@@ -89,7 +89,7 @@
                                         It also allow merchant to control and manage their shop and branches. For example, every shop register with Switch In company will have a super merchant account that able to grant permissions for person in charge in different branches to manger their stock count, upload products or offers on the respective branch.
                                     </p>
                                     <br />
-                                    <p class="mb-5 mb-lg-0 leadMSmall">Admin Back Office System is the central constrol system for Switch In teams to manage for all merchants. This include approval of newly register merchants, approval on products or offers uploaded by merchant, view merchants and users details, export reports and more.</p>
+                                    <p class="mb-5 mb-lg-0 leadMSmall">Admin Back Office System is the central constrol system for Switch In teams to manage for all merchants. This include approval of newly register merchants, approval on products or offers uploaded by merchant, view merchants and users detail, export reports and more.</p>
                                     <br />
                                     <br />
                                     <div class="video pt-4 pb-4">
