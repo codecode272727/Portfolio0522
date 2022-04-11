@@ -80,16 +80,16 @@
                                     <h1>Switch In</h1>
                                     <br />
                                     <p class="mb-5 mb-lg-0 leadMSmall">
-                                        Switch In is an ecommerce digital platform that includes best deals in Malaysia with discount vouchers up for grab.
-                                        This project include user app and two back office systems which are Merchant Back Office System and Admin Back office system that support webview, android and ios.
+                                        Switch In is an e-commerce digital platform that includes the best deals in Malaysia with discount vouchers up for grab.
+                                        This project include a user app and two back office systems, which are Merchant Back Office System and Admin Back office system that support webview, android and ios.
                                     </p>
                                     <br />
                                     <p class="mb-5 mb-lg-0 leadMSmall">
-                                        Merchant Back Office System include sales summary, inventory, order fullfilment, distribution, sales reports, user membership tier, courier partner and shipping processes used by merchant to keep their business running.
-                                        It also allow merchant to control and manage their shop and branches. For example, every shop register with Switch In company will have a super merchant account that able to grant permissions for person in charge in different branches to manger their stock count, upload products or offers on the respective branch.
+                                        Merchant Back Office System includes sales summary, inventory, order fulfillment, distribution, sales reports, user membership tier, courier partner and shipping processes used by merchants to keep their business running.
+                                        It also allows merchants to control and manage their shops and branches. For example, every shop registered with Switch In company will have a super merchant account that is able to grant permission for the person in charge in different branches to manage their stock count, upload products or offers on the respective branch.
                                     </p>
                                     <br />
-                                    <p class="mb-5 mb-lg-0 leadMSmall">Admin Back Office System is the central constrol system for Switch In teams to manage for all merchants. This include approval of newly register merchants, approval on products or offers uploaded by merchant, view merchants and users detail, export reports and more.</p>
+                                    <p class="mb-5 mb-lg-0 leadMSmall">Admin Back Office System is the central control system for Switch In teams to manage for all merchants. This includes approval of newly registered merchants, approval of products or offers uploaded by merchants, viewing merchants and users detail, export reports and more.</p>
                                     <br />
                                     <br />
                                     <div class="video pt-4 pb-4">
@@ -149,9 +149,7 @@
                                     <h1>Voucher Club</h1>
                                     <br />
                                     <p class="mb-5 mb-lg-0 leadMSmall">
-                                        Voucher Club project involved restructure and rebuild of existing back office system that enhance on high scalability by using automated system to process data for mobile reload or bill payment for e-wallet vendor.
-                                        Voucher Club also enable e-wallet vendor to manage their business operation that related to
-                                        merchant selection according to the best price and maximum lot available. It include merchant api integration which shorten the mobile reload processing time.
+                                        The Voucher Club project involved restructuring and rebuilding of an existing back office system that enhanced high scalability by using an automated system to process data for mobile reloads and bill payment transactions. Voucher Club also supports auto selection of merchants that provide the best price with merchant api integration to increase business margin and shorten the mobile reload processing time.
                                     </p>
                                     <br />
                                     <br />
@@ -191,8 +189,7 @@
                                     <h1>BruXchange</h1>
                                     <br />
                                     <p class="mb-5 mb-lg-0 leadMSmall">
-                                        BruXchange is an online money changer platform in Brunei that enable customer to view latest currency rate and reserve currency.
-                                        This project include a website for user interactions and a back office system that enable BruXchange management team to control the display rate and view customer order details.
+                                        BruXchange is an online money changer platform in Brunei that enables customers to view the latest currency rate and reserve currency. This project includes a website for user interactions and a back office system that enables the BruXchange management team to control the display rate and view customer order details.
                                     </p>
                                     <br />
                                     <div class="video pt-4 pb-4">
@@ -237,7 +234,7 @@
                                     <h1>IPay</h1>
                                     <br />
                                     <p class="mb-5 mb-lg-0 leadMSmall">
-                                        IPay is an application integrated with wechat mini program to provide payment and reload services like prepaid reload, postpaid, water, sewage,
+                                        IPay is an application that integrated with the wechat mini program to provide payment and reload services like prepaid reload, postpaid, water, sewage,
                                         internet and electrical bill payment.
                                     </p>
                                     <br />
@@ -280,7 +277,7 @@
                                     <!-- Project details-->
                                     <h1>Bru Pay</h1>
                                     <br />
-                                    <p class="mb-5 mb-lg-0 leadMSmall">Bru Pay is an e-wallet application that focus on cashless payment system in Brunei.</p>
+                                    <p class="mb-5 mb-lg-0 leadMSmall">Bru Pay is an e-wallet application that focuses on the cashless payment system in Brunei.</p>
                                     <br />
                                     <br />
                                     <div class="ipImgTop pt-4 pb-4">
